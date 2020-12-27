@@ -1,11 +1,11 @@
-##Poema 9
+# Poema 9
 
 Será que el dolor se interpreta desde la naturaleza de la otredad
 donde la vida adopta su imagen, su forma
 repitase cuantas veces sea necesario 
-{repitase si aún esto no se entendiese}
+`{repitase si aún esto no se entendiese}`
 recurrase al asombro en caso de dudarlo
-	la misma historia con final feliz, en caso de aceptarlo.
+la misma historia con final feliz, en caso de aceptarlo.
 
 
 Dolor y alma, esencias del mismo ser
